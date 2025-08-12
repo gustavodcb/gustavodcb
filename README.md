@@ -1,7 +1,9 @@
 # Olá, eu sou o Gustavo Davi! 👋
 
-Tenho 19 anos e atualmente curso **Análise e Desenvolvimento de Sistemas** no **IFPB**.  
-Apaixonado por tecnologia e desenvolvimento de software, estou sempre aprendendo e explorando novas linguagens e ferramentas.
+Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFPB.
+Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos conhecimentos, desafios e oportunidades para crescer como profissional.
+
+Adoro explorar diferentes linguagens de programação e ferramentas, aplicando o que aprendo em projetos reais para transformar ideias em soluções práticas.
 
 ### 📚 Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas** — [Instituto Federal da Paraíba (IFPB) Campus Esperança](https://estudante.ifpb.edu.br/cursos/346/)
