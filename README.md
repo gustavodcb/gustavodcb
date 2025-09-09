@@ -23,7 +23,6 @@ Adoro explorar diferentes linguagens de programação e ferramentas, aplicando o
 ### ⚙️ Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/> &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/intellijidea" width="40" height="40" alt="IntelliJ IDEA"/>
