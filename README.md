@@ -1,4 +1,6 @@
-# Olá, eu sou o Gustavo Davi! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b7d7d&height=120§ion=header"/>
+
+Olá, eu sou o Gustavo Davi! 👋
 
 Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFPB.
 Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos conhecimentos, desafios e oportunidades para crescer como profissional.
