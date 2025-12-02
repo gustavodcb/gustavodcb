@@ -43,3 +43,5 @@ Adoro explorar diferentes linguagens de programação e ferramentas, aplicando o
 
 
 Obrigado pela visita ao meu perfil! 😊
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7b7d7d&&section=footer&textBg=false&descAlign=60"/>
