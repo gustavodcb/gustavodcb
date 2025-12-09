@@ -30,13 +30,6 @@ Adoro explorar diferentes linguagens de programação e ferramentas, aplicando o
 <img src="https://cdn.simpleicons.org/intellijidea" width="40" height="40" alt="IntelliJ IDEA"/>
 
 
-### 💡 Soft Skills
-- Trabalho em equipe  
-- Comunicação eficaz  
-- Pensamento analítico  
-- Proatividade
-
-
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-davi-342025369)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavoddavi)  
 ✉️ **E-mail:** gustavodavi.gdcb@gmail.com
